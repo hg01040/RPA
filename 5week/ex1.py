@@ -44,3 +44,8 @@ plt.ylabel('부화마릿수')
 plt.grid(True)
 plt.legend(['부화마릿수'], fontsize=10, loc='best')
 plt.show()
+
+
+# bar - plt.bar (구분, 데이터 ...)
+# pie - plt.pie(비율데이터 ......)
+# Line - Line.plot(구분, 데이터 ...)
